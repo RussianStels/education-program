@@ -8,7 +8,7 @@ import colorama as C
 import cmd, platform, os
 from time import sleep
 from random import randint
-
+'''sssss'''
 class Combat(cmd.Cmd):
     STRINGS = {
     'intro'        : 'You choose to fight. Enemies are staring viciously at you!\nPress Enter to start . . .',
